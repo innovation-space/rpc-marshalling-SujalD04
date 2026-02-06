@@ -1,0 +1,18 @@
+
+Comparison: RPC vs Local Calculation
+Student Name: Alice
+Student ID: 123
+Grades: [90, 80, 85, 79, 82, 97, 100, 58, 84, 96]
+
+[RPC] Average Grade: 85.10
+[Local] Average Grade: 85.10
+
+Correctness: Match
+
+Execution Time (seconds):
+  RPC:   0.006914
+  Local: 0.000006
+
+Peak Memory Usage (bytes):
+  RPC:   47
+  Local: 24
